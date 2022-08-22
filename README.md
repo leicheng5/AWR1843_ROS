@@ -13,3 +13,6 @@ float32 intensity\
 float32 intensity_snr_noise\
 float32 noise\
 string time_human\
+
+
+If an error is reported, you can use the file suffixed with (copy) to build first, and then use the original file to rebuild after it can be run.
